@@ -1,0 +1,1 @@
+import {Negociacao} from '../js/models/negociacao'
