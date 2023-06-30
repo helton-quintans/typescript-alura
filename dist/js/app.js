@@ -1,1 +1,1 @@
-import {Negociacao} from '../js/models/negociacao'
+import {Negociacao} from './models/negociacao.js'
